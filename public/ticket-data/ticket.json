@@ -1,0 +1,92 @@
+[
+  {
+    "id": "#1001",
+    "title": "Login Issues - Can't Access Account",
+    "description": "Customer is unable to log in to their account. They've tried resetting their password multiple times but still...",
+    "status": "Open",
+    "priority": "High Priority",
+    "assigned_to": "John Smith",
+    "date": "2024-01-15"
+  },
+  {
+    "id": "#1002",
+    "title": "Payment Not Processing",
+    "description": "Customer reported their credit card payment keeps failing during checkout.",
+    "status": "Pending",
+    "priority": "High Priority",
+    "assigned_to": "Alice Johnson",
+    "date": "2024-01-16"
+  },
+  {
+    "id": "#1003",
+    "title": "Unable to Download Invoice",
+    "description": "Customer cannot download their January invoice from the billing section. The download button is...",
+    "status": "In-Progress",
+    "priority": "Medium Priority",
+    "assigned_to": "Michael Brown",
+    "date": "2024-01-17"
+  },
+  {
+    "id": "#1004",
+    "title": "Website Loading Slowly",
+    "description": "Several customers reported that the website takes more than 10 seconds to load.",
+    "status": "Open",
+    "priority": "Medium Priority",
+    "assigned_to": "David Wilson",
+    "date": "2024-01-18"
+  },
+  {
+    "id": "#1005",
+    "title": "Error 500 on Checkout",
+    "description": "Customer receives an 'Internal Server Error' when attempting to complete their purchase.",
+    "status": "In-Progress",
+    "priority": "High Priority",
+    "assigned_to": "Sarah Lee",
+    "date": "2024-01-19"
+  },
+  {
+    "id": "#1006",
+    "title": "Password Reset Email Not Sent",
+    "description": "Customer reports they are not receiving the password reset email.",
+    "status": "Open",
+    "priority": "Low Priority",
+    "assigned_to": "Tom Harris",
+    "date": "2024-01-20"
+  },
+  {
+    "id": "#1007",
+    "title": "Mobile App Crashes on Login",
+    "description": "App closes immediately after entering login credentials on Android devices.",
+    "status": "In-Progress",
+    "priority": "High Priority",
+    "assigned_to": "Emily Davis",
+    "date": "2024-01-21"
+  },
+  {
+    "id": "#1008",
+    "title": "Email Notifications Delayed",
+    "description": "System emails are being received several hours late by customers.",
+    "status": "Pending",
+    "priority": "Medium Priority",
+    "assigned_to": "Chris Miller",
+    "date": "2024-01-22"
+  },
+  {
+    "id": "#1009",
+    "title": "Broken Link in Help Center",
+    "description": "The 'Contact Support' link in the Help Center is broken.",
+    "status": "Resolved",
+    "priority": "Low Priority",
+    "assigned_to": "Sophia White",
+    "date": "2024-01-23"
+  },
+  {
+    "id": "#1010",
+    "title": "Subscription Not Renewing Automatically",
+    "description": "Customer subscription did not renew automatically despite having payment details saved.",
+    "status": "Open",
+    "priority": "High Priority",
+    "assigned_to": "Daniel Clark",
+    "date": "2024-01-24"
+  }
+]
