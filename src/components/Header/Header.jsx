@@ -5,7 +5,7 @@ const Header = () => {
     <header className="bg-white shadow-gray-300 shadow-sm">
       <div className="header-container max-w-[1440px] mx-auto  py-4  ">
         <nav className="navbar flex flex-col lg:flex-row justify-between items-center">
-          <h1 className="logo font-bold text-[1.5rem]">CS -- Ticket System</h1>
+          <h1 className="logo font-bold text-[1.5rem]">CS &minus; Ticket System</h1>
           <ul className="nav-links flex flex-col md:flex-row gap-8 text-base items-center">
             <li className="nav-link">
               <a href="">Home</a>
